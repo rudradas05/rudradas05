@@ -11,7 +11,7 @@ Passionate about <b>Full-Stack Development</b> and building scalable web applica
 
 ---
 
-I’m currently learning Next.Js, TypeScript, DSA, AI Intigration with maximum optimization.
+Currently diving into Next.js for server-side rendering, TypeScript for type safety, Data Structures & Algorithms (DSA) to improve problem-solving skills, and exploring AI Integration to create smarter, more dynamic web applications.
 
 ---
 
