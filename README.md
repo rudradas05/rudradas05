@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey 👋, there Rudra this side:)
 
-<!--
-**rudradas05/rudradas05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A MERN Stack Developer | Next.js | TypeScript | Open Source Enthusiast  
+Learning Web3 and AI Integration with Websites. Passionate about Full-Stack Development.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack  
+- 💻 **Frontend:** React.js, Next.js, TypeScript  
+- 🔥 **Backend:** Node.js, Express.js  
+- 💾 **Database:** MongoDB, PostgreSQL  
+- 🚀 **Others:** Docker, Git, Web3, Blockchain  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Stats & Badges  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudraDas&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraDas&layout=compact&theme=radical)
+
+### 📌 Current Projects
+- Building a **Billing App** with the MERN stack.
+- Improving the UI of **Medico (Doctor Booking App)**.
+
+### 📫 How to reach me  
+- 🔗 [LinkedIn](https://linkedin.com/in/RudraDas)
+- ✉️ Email: rudradas@example.com  
+- 🌎 Portfolio: [rudradas.dev](https://rudradas.dev)
