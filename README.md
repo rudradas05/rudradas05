@@ -1,13 +1,13 @@
 # Hey 👋, there Rudra this side:)
 
-A MERN Stack Developer | Next.js | TypeScript | Open Source Enthusiast  
-Learning Web3 and AI Integration with Websites. Passionate about Full-Stack Development.
+A MERN Stack Developer | React.js | JavaScript  
+Passionate about Full-Stack Development.
 
 ### 🛠 Tech Stack  
-- 💻 **Frontend:** React.js, Next.js, TypeScript  
+- 💻 **Frontend:** React.js 
 - 🔥 **Backend:** Node.js, Express.js  
 - 💾 **Database:** MongoDB, PostgreSQL  
-- 🚀 **Others:** Docker, Git, Web3, Blockchain  
+- 🚀 **Others:**  Git, GitHub
 
 ### 🔥 Stats & Badges  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudraDas&show_icons=true&theme=radical)  
@@ -19,5 +19,5 @@ Learning Web3 and AI Integration with Websites. Passionate about Full-Stack Deve
 
 ### 📫 How to reach me  
 - 🔗 [LinkedIn](https://linkedin.com/in/RudraDas)
-- ✉️ Email: rudradas@example.com  
-- 🌎 Portfolio: [rudradas.dev](https://rudradas.dev)
+- ✉️ Email: dasrudra.stu@gmail.com
+
