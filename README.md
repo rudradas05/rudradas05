@@ -11,6 +11,10 @@ Passionate about <b>Full-Stack Development</b> and building scalable web applica
 
 ---
 
+I’m currently learning Next.Js, TypeScript, DSA, AI Intigration with maximum optimization.
+
+---
+
 # 💻 Tech Stack:
 
 <div align="center">
