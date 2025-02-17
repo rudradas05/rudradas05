@@ -50,12 +50,12 @@ Passionate about <b>Full-Stack Development</b> and building scalable web applica
 ---
 
 ## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas8&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=dark)  
 
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudradas8&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=dark)  
 
 ---
 
