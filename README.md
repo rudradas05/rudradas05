@@ -22,6 +22,14 @@ Currently diving into Next.js for server-side rendering, TypeScript for type saf
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="React" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="Next.js" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Auth.js-0A66C2?logo=auth0&logoColor=white&style=for-the-badge" height="30" alt="Auth.js" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Zod-3E63DD?logo=Zod&logoColor=white&style=for-the-badge" height="30" alt="Zod" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" height="30" alt="Appwrite" />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="30" alt="C++" />
@@ -50,6 +58,7 @@ Currently diving into Next.js for server-side rendering, TypeScript for type saf
   <img width="12" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="Tailwind CSS" />
 </div>
+
 
 ---
 
