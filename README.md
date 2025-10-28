@@ -65,7 +65,7 @@ Passionate about building <b>scalable, performant, and modern web applications</
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudradas05&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rudradas05&theme=dark&border_radius=5.5)
 
 ---
 
