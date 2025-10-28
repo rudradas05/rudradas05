@@ -9,7 +9,7 @@ Passionate about building <b>scalable, performant, and modern web applications</
 ### 🔹 About Me
 - 🚀 Building full-stack applications with **React, Next.js, Node.js, Express, Tailwind CSS**  
 - 🔐 Implementing **Clerk, OAuth, JWT** authentication and secure role-based dashboards  
-- 🗄️ Working with **Prisma ORM + PostgreSQL**, MongoDB & MySQL for scalable databases  
+- 🗄️ Working with **MongoDB** for all projects using **Prisma ORM**  
 - 💡 Passionate about **clean code, problem-solving, and creating intuitive UIs**  
 
 ---
@@ -20,7 +20,7 @@ Passionate about building <b>scalable, performant, and modern web applications</
 | MERN Stack | MEDICO – Doctor Appointment Booking App | VS Code, Git, GitHub, Vercel |
 | Next.js + SSR | EpicEats – Food Delivery App | Postman, Figma |
 | TypeScript | Billing App | npm, ESLint |
-| Tailwind CSS | Real-Time Scheduling Apps | Prisma, PostgreSQL, MongoDB |
+| Tailwind CSS | Real-Time Scheduling Apps | Prisma, MongoDB |
 
 ---
 
@@ -32,7 +32,6 @@ Passionate about building <b>scalable, performant, and modern web applications</
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Clerk-00BFFF?logo=clerk&logoColor=white&style=for-the-badge" height="30" />
@@ -43,17 +42,35 @@ Passionate about building <b>scalable, performant, and modern web applications</
 ---
 
 ### 📌 Projects
-| Project | Description | Tech |
-|---------|------------|------|
-| **MEDICO** | Doctor Appointment Booking App with **Clerk + OAuth authentication**, real-time scheduling, role-based dashboards | MERN, Prisma, PostgreSQL |
-| **EpicEats** | Food delivery app with secure payments and smooth UX | MERN Stack |
-| **Billing App** | Comprehensive billing system with PDF generation and history | MERN Stack |
+| Project | Description | Tech | Demo |
+|---------|------------|------|------|
+| **MEDICO** | Doctor Appointment Booking App with **Clerk + OAuth authentication**, real-time scheduling, role-based dashboards. **MongoDB** used for database management. | MERN, MongoDB | [Live](#) |
+| **EpicEats** | Food delivery app with secure payments and smooth UX, fully using **MongoDB** | MERN, MongoDB | [Live](#) |
+| **Billing App** | Comprehensive billing system with PDF generation, history, and optimized performance using **MongoDB** | MERN, MongoDB | [Live](#) |
+
+> Replace `#` with your live demo URLs once deployed.
+
+---
+
+### 🌱 Currently Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/AI-FF6F61?logo=python&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/DSA-4B32C3?logo=data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E&style=for-the-badge" height="30" />
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudradas05&theme=dark)
+
+---
+
+### 🖥 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/rudradas05/count.svg)
 
 ---
 
