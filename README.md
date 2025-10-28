@@ -1,38 +1,17 @@
-<h1 align="center">Hey 👋, Rudra here!</h1>
+<h1 align="center">Hey 👋, Rudra here!  </h1>
 
-<h3 align="center">A <b>MERN Stack Developer</b> | <b>React.js</b> | <b>JavaScript</b>
-<br>
-Passionate about <b>Full-Stack Development</b> and building scalable web applications.
-</h3>
-<p align="center">
-  (While I complete my B.Tech in Mechanical Engineering at NIT Durgapur)
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rudra-das-a9072a258" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dasrudra.stu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<h3 align="center">A <b>MERN Stack Developer</b> | <b>React.js</b> | <b>JavaScript</b>  
+Passionate about <b>Full-Stack Development</b> and building scalable web applications.</h3>
 
 ---
 
-### 📌 Featured Projects
-*(Previously "Current Projects", "Featured" is a common convention)*
-
-- **[span_0](start_span)Doctor Appointment Booking App**[span_0](end_span) – A full-stack project where patients can book appointments seamlessly. [span_1](start_span)[span_2](start_span)[span_3](start_span)Features include secure JWT auth, real-time availability, and separate user/admin roles[span_1](end_span)[span_2](end_span)[span_3](end_span).
-  - [span_4](start_span)[**GitHub Repo**](https://github.com/rudradas05/MEDICO-Doctor-Appointment-Booking-App)[span_4](end_span) | [span_5](start_span)[**Live Demo**](https://medico-doctor-appointment-app.vercel.app/)[span_5](end_span)
-
-- **[span_6](start_span)Billing App**[span_6](end_span) [span_7](start_span)– A comprehensive MERN-stack tool for generating bills, creating PDF reports, and viewing billing history[span_7](end_span).
-  - [span_8](start_span)[**GitHub Repo**](https://github.com/rudradas05/Billing-App-MERN)[span_8](end_span) | [span_9](start_span)[**Live Demo**](https://billing-app-mern.vercel.app/)[span_9](end_span)
+### 📌 Current Projects  
+- **Doctor Appointment Booking App** – A full-stack project where patients can book appointments seamlessly.  
+- **Billing App** – Enhancing the UI and optimizing performance with the MERN stack.  
 
 ---
 
-### 🌱 I'm Currently Learning
-
-Currently diving into **Next.js** for server-side rendering, **TypeScript** for type safety, **Data Structures & Algorithms (DSA)** to improve problem-solving skills, and exploring **AI Integration** to create smarter, more dynamic web applications.
+Currently diving into Next.js for server-side rendering, TypeScript for type safety, Data Structures & Algorithms (DSA) to improve problem-solving skills, and exploring AI Integration to create smarter, more dynamic web applications.
 
 ---
 
@@ -80,18 +59,20 @@ Currently diving into **Next.js** for server-side rendering, **TypeScript** for 
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="Tailwind CSS" />
 </div>
 
----
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=dark)
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=dark)
+## 📊 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=dark)  
 
 ---
 
-## 📫 How to reach me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rudra-das-a9072a258)
-- ✉️ Email: [dasrudra.stu@gmail.com](mailto:dasrudra.stu@gmail.com)
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=dark)  
+
+---
+
+## 📫 How to reach me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rudra-das-a9072a258)  
+- ✉️ Email: [dasrudra.stu@gmail.com](mailto:dasrudra.stu@gmail.com)  
+-
