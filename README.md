@@ -76,4 +76,4 @@ Passionate about building <b>scalable, performant, and modern web applications</
 
 ### 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rudra-das-a9072a258)  
-- ✉️ Email: [dasrudra.stu@gmail.com](mailto:dasrudra.stu@gmail.com)
+- ✉️ Email: [dasrudra.stu@gmail.com](mailto:dasrudra.stu@gmail.com
