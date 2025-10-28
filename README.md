@@ -11,8 +11,12 @@ Passionate about building <b>scalable, performant, and modern web applications</
 ---
 
 ### 🔹 About Me
-- 🚀 Building full-stack applications with **React, Next.js, Node.js, Express, Tailwind CSS** - 🔐 Implementing **Clerk, OAuth, JWT** authentication and secure role-based dashboards  
-- 🗄️ Working with **MongoDB** for all projects using **Prisma ORM** - 💡 Passionate about **clean code, problem-solving, and creating intuitive UIs** ---
+- 🚀 Building full-stack applications with **React, Next.js, Node.js, Express, Tailwind CSS**  
+- 🔐 Implementing **Clerk, OAuth, JWT** authentication and secure role-based dashboards  
+- 🗄️ Working with **MongoDB** for all projects using **Prisma ORM**  
+- 💡 Passionate about **clean code, problem-solving, and creating intuitive UIs**  
+
+---
 
 ### 📫 Connect with Me
 <p align="center">
@@ -44,13 +48,43 @@ Passionate about building <b>scalable, performant, and modern web applications</
 ---
 
 ### 📌 Projects
-| Project | Description | Key Features | Demo |
-|---------|-------------|--------------|------|
-| **MEDICO** | Doctor Appointment Booking App | **Clerk + OAuth**, Real-Time Scheduling, Role-Based Dashboards | [Live](#) |
-| **EpicEats** | Food delivery app with secure payments | **Secure Payments**, Smooth UX, **MongoDB** Database | [Live](#) |
-| **Billing App** | Comprehensive billing system | **PDF Generation**, History Tracking, Optimized Performance | [Live](#) |
+<table>
+  <tr style="background-color:#1f1f1f; color:white;">
+    <th>Project</th>
+    <th>Description</th>
+    <th>Key Features</th>
+    <th>Demo & Repo</th>
+  </tr>
+  <tr>
+    <td>💊 <b>MEDICO</b></td>
+    <td>Doctor Appointment Booking App</td>
+    <td>Clerk + OAuth 🔐, Real-Time Scheduling ⏱️, Role-Based Dashboards 👥</td>
+    <td>
+      <a href="#" target="_blank">🌐 Live</a> | 
+      <a href="#" target="_blank">📂 Repo</a>
+    </td>
+  </tr>
+  <tr style="background-color:#f5f5f5;">
+    <td>🍔 <b>EpicEats</b></td>
+    <td>Food Delivery App</td>
+    <td>Secure Payments 💳, Smooth UX ✨, MongoDB 🗄️</td>
+    <td>
+      <a href="#" target="_blank">🌐 Live</a> | 
+      <a href="#" target="_blank">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>🧾 <b>Billing App</b></td>
+    <td>Comprehensive Billing System</td>
+    <td>PDF Generation 📄, History Tracking 🕒, Optimized Performance ⚡</td>
+    <td>
+      <a href="#" target="_blank">🌐 Live</a> | 
+      <a href="#" target="_blank">📂 Repo</a>
+    </td>
+  </tr>
+</table>
 
-> Replace `#` with your live demo URLs once deployed.
+> Replace `#` with actual live/demo repo URLs once deployed.
 
 ---
 
