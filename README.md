@@ -4,23 +4,25 @@ Full-Stack Developer | MERN & Next.js | TypeScript
 Passionate about building <b>scalable, performant, and modern web applications</b>
 </h3>
 
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bW9wZjcxbjNwcDV4Y3FhMW12M3FxZWw3cWRxNjlhZ3lmcTA1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmCgSQ/giphy.gif" alt="coding-animation" width="300" />
+</p>
+
 ---
 
 ### 🔹 About Me
-- 🚀 Building full-stack applications with **React, Next.js, Node.js, Express, Tailwind CSS**  
-- 🔐 Implementing **Clerk, OAuth, JWT** authentication and secure role-based dashboards  
-- 🗄️ Working with **MongoDB** for all projects using **Prisma ORM**  
-- 💡 Passionate about **clean code, problem-solving, and creating intuitive UIs**  
+- 🚀 Building full-stack applications with **React, Next.js, Node.js, Express, Tailwind CSS** - 🔐 Implementing **Clerk, OAuth, JWT** authentication and secure role-based dashboards  
+- 🗄️ Working with **MongoDB** for all projects using **Prisma ORM** - 💡 Passionate about **clean code, problem-solving, and creating intuitive UIs** ---
 
----
-
-### ⚡ Profile Highlights
-| 🌟 Key Skills | 📂 Projects | 🔧 Tools & Tech |
-|---------------|------------|----------------|
-| MERN Stack | MEDICO – Doctor Appointment Booking App | VS Code, Git, GitHub, Vercel |
-| Next.js + SSR | EpicEats – Food Delivery App | Postman, Figma |
-| TypeScript | Billing App | npm, ESLint |
-| Tailwind CSS | Real-Time Scheduling Apps | Prisma, MongoDB |
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-das-a9072a258" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="mailto:dasrudra.stu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+</p>
 
 ---
 
@@ -42,11 +44,11 @@ Passionate about building <b>scalable, performant, and modern web applications</
 ---
 
 ### 📌 Projects
-| Project | Description | Tech | Demo |
-|---------|------------|------|------|
-| **MEDICO** | Doctor Appointment Booking App with **Clerk + OAuth authentication**, real-time scheduling, role-based dashboards. **MongoDB** used for database management. | MERN, MongoDB | [Live](#) |
-| **EpicEats** | Food delivery app with secure payments and smooth UX, fully using **MongoDB** | MERN, MongoDB | [Live](#) |
-| **Billing App** | Comprehensive billing system with PDF generation, history, and optimized performance using **MongoDB** | MERN, MongoDB | [Live](#) |
+| Project | Description | Key Features | Demo |
+|---------|-------------|--------------|------|
+| **MEDICO** | Doctor Appointment Booking App | **Clerk + OAuth**, Real-Time Scheduling, Role-Based Dashboards | [Live](#) |
+| **EpicEats** | Food delivery app with secure payments | **Secure Payments**, Smooth UX, **MongoDB** Database | [Live](#) |
+| **Billing App** | Comprehensive billing system | **PDF Generation**, History Tracking, Optimized Performance | [Live](#) |
 
 > Replace `#` with your live demo URLs once deployed.
 
@@ -57,23 +59,23 @@ Passionate about building <b>scalable, performant, and modern web applications</
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/AI-FF6F61?logo=python&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/DSA-4B32C3?logo=data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/DSA-4B32C3?style=for-the-badge" height="30" />
 </div>
 
 ---
 
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=rudradas05&theme=dark&border_radius=5.5)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=dark" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=rudradas05&theme=dark&border_radius=5.5" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🖥 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/rudradas05/count.svg)
-
----
-
-### 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rudra-das-a9072a258)  
-- ✉️ Email: [dasrudra.stu@gmail.com](mailto:dasrudra.stu@gmail.com
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rudradas05/count.svg" alt="Visitor Count" />
+</div>
