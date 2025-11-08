@@ -92,7 +92,7 @@ AI-powered collaborative workspace for teams
 Smart expense tracker with AI-driven analytics  
 📊 Insights Dashboard | 💡 Smart Categorization | 🧾 Report Generation  
 <br>
-<a href="https://github.com/rudradas05/Finance-Tracker" target="_blank">
+<a href="https://github.com/rudradas05/spendly" target="_blank">
   <img src="https://img.shields.io/badge/Repo-GitHub-181717?logo=github&style=for-the-badge" />
 </a>
 
