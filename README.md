@@ -7,7 +7,7 @@ Building <b>scalable, modern, and intelligent web applications</b> 🚀
 </h3>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js;AI+%2B+Web+Integration;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js;AI+%2B+Web+Integration" alt="Typing SVG" />
 </h1>
 
 ---
@@ -19,7 +19,7 @@ Building <b>scalable, modern, and intelligent web applications</b> 🚀
 - 🔐 Skilled with **Clerk, OAuth, JWT**, and **role-based authentication**  
 - 🧩 Focused on **clean architecture and maintainable code**  
 - 🌱 Currently building **AI-powered collaboration tools & finance apps**  
-- 💬 Ask me about **Full-Stack Development, TypeScript, or AI in Web Apps**
+
 
 ---
 
