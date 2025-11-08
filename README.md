@@ -1,24 +1,29 @@
-<h1 align="center">Hey 👋, I'm Rudra</h1>
+<!-- 🌟 Rudra Das — GitHub Profile README 🌟 -->
+
+<h1 align="center">Hey 👋, I'm Rudra Das</h1>
 <h3 align="center">
-Full-Stack Developer | MERN & Next.js | TypeScript  
-Passionate about building <b>scalable, performant, and modern web applications</b>
+💻 Full-Stack Developer | TypeScript | MERN & Next.js | AI Integration Enthusiast  
+Building <b>scalable, modern, and intelligent web applications</b> 🚀
 </h3>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bW9wZjcxbjNwcDV4Y3FhMW12M3FxZWw3cWRxNjlhZ3lmcTA1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmCgSQ/giphy.gif" alt="coding-animation" width="300" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js;AI+%2B+Web+Integration;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
 
 ---
 
 ### 🔹 About Me
-- 🚀 Building full-stack applications with **React, Next.js, Node.js, Express, Tailwind CSS**  
-- 🔐 Implementing **Clerk, OAuth, JWT** authentication and secure role-based dashboards  
-- 🗄️ Working with **MongoDB** for all projects using **Prisma ORM**  
-- 💡 Passionate about **clean code, problem-solving, and creating intuitive UIs**  
+- 🚀 Passionate about building **modern, performant, and scalable** web apps  
+- 🧠 Exploring **AI-powered full-stack experiences** using Next.js + Python  
+- 🗄️ Experienced in **MongoDB**, **PostgreSQL**, and **Prisma ORM**  
+- 🔐 Skilled with **Clerk, OAuth, JWT**, and **role-based authentication**  
+- 🧩 Focused on **clean architecture and maintainable code**  
+- 🌱 Currently learning **AI/ML integration & backend optimization**  
+- 💬 Ask me about **Full-Stack Development, TypeScript, or AI in Web Apps**
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rudra-das-a9072a258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
@@ -30,26 +35,23 @@ Passionate about building <b>scalable, performant, and modern web applications</
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudradas05&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 💻 Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Clerk-00BFFF?logo=clerk&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/OAuth-4285F4?logo=oauth&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,mongodb,postgres,prisma,tailwind,python,git,github,vscode,vercel,figma,linux" />
 </div>
 
 ---
 
-### 📌 Projects
+### 🧩 Featured Projects
 <table>
-  <tr style="background-color:#1f1f1f; color:white;">
+  <tr>
     <th>Project</th>
     <th>Description</th>
     <th>Key Features</th>
@@ -58,58 +60,61 @@ Passionate about building <b>scalable, performant, and modern web applications</
   <tr>
     <td>💊 <b>MEDICO</b></td>
     <td>Doctor Appointment Booking App</td>
-    <td>Clerk + OAuth 🔐, Real-Time Scheduling ⏱️, Role-Based Dashboards 👥</td>
-    <td>
-      <a href="#" target="_blank">🌐 Live</a> | 
-      <a href="#" target="_blank">📂 Repo</a>
-    </td>
-  </tr>
-  <tr style="background-color:#f5f5f5;">
-    <td>🍔 <b>EpicEats</b></td>
-    <td>Food Delivery App</td>
-    <td>Secure Payments 💳, Smooth UX ✨, MongoDB 🗄️</td>
-    <td>
+    <td>🔐 Clerk + OAuth Auth, ⏱️ Real-Time Scheduling, 👥 Role-Based Dashboards</td>
+    <td align="center">
       <a href="#" target="_blank">🌐 Live</a> | 
       <a href="#" target="_blank">📂 Repo</a>
     </td>
   </tr>
   <tr>
     <td>🧾 <b>Billing App</b></td>
-    <td>Comprehensive Billing System</td>
-    <td>PDF Generation 📄, History Tracking 🕒, Optimized Performance ⚡</td>
-    <td>
+    <td>Comprehensive billing system with PDF & history tracking</td>
+    <td>📄 PDF Generation, 🕒 Record Tracking, ⚡ Optimized Performance</td>
+    <td align="center">
+      <a href="#" target="_blank">🌐 Live</a> | 
+      <a href="#" target="_blank">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>🏠 <b>Real Estate Manager</b></td>
+    <td>Property management app for agents & clients</td>
+    <td>🧠 AI Chat Assistant, 🗄️ Prisma ORM, 🔐 Secure Auth System</td>
+    <td align="center">
       <a href="#" target="_blank">🌐 Live</a> | 
       <a href="#" target="_blank">📂 Repo</a>
     </td>
   </tr>
 </table>
 
-> Replace `#` with actual live/demo repo URLs once deployed.
-
----
-
-### 🌱 Currently Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/AI-FF6F61?logo=python&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/DSA-4B32C3?style=for-the-badge" height="30" />
-</div>
-
 ---
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=dark" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=rudradas05&theme=dark&border_radius=5.5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudradas05&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradas05&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
 
-### 🖥 Visitor Count
+### 🔥 GitHub Streak
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rudradas05/count.svg" alt="Visitor Count" />
+  <img src="https://streak-stats.demolab.com?user=rudradas05&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
+
+---
+
+### 🧑‍💻 Contributions & Open Source
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rudradas05&limit=6&theme=tokyonight&combine_all_yearly_contributions=true" alt="Rudra's Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudradas05&theme=react-dark&area=true&hide_border=true&line=00FFFF&color=00C2FF" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 💬 Quote
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> 😄  
+</p>
